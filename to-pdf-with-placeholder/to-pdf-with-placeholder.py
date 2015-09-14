@@ -4,6 +4,8 @@
 # usage:
 # - create a SLA file with a text frame named "placeholder"
 # - run scribus -g -py to-pdf-with-placeholder.py -pa -o file.pdf -pa -t "welcome to scribus" file.sla
+#
+# (c) MIT Ale Rimoldi
 
 import sys
 import getopt
